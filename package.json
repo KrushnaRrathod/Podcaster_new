@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "simp":"convex dev"
+    "simp":"npx convex dev"
   },
   "dependencies": {
     "@clerk/nextjs": "^5.1.4",
